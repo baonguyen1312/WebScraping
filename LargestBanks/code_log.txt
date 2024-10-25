@@ -1,0 +1,8 @@
+2024-Oct-25-19:10:05: Preliminaries complete. Initiating extract data.
+2024-Oct-25-19:10:06: Extraction complete. Initiating transform data.
+2024-Oct-25-19:10:06: Transformation complete. Initiating load to csv.
+2024-Oct-25-19:10:06: Load to csv complete. Initiating load to database.
+2024-Oct-25-19:10:06: SQL Connection initiated
+2024-Oct-25-19:10:06: Load to database complete. Intiating query.
+2024-Oct-25-19:10:06: Process Complete
+2024-Oct-25-19:10:06: Server Connection closed
